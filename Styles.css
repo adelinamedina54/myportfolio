@@ -1,9 +1,9 @@
 body {
-background-image:url(./assets/Rainbow.jpg)
+background-image:url(./assets/Rainbow.jpg);
   background-color: rgb(15, 1, 13);
   background-size: cover;
   margin: 0;
-  font-family:"DM Serif Display";
+  /* font-family:"DM Serif Display"; */
 }
 
 h1{
