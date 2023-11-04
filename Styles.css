@@ -19,12 +19,13 @@ nav{
 text-align:right;
 
 }
-button {
+nav a {
   color: rgb(252, 249, 249);
-  background-color: rgb(1, 16, 9);
-  font-size: large;
+  background-color: #011009;
+  font-size: 32px;
   border:5px solid white;
   border-style: outset;
+  text-decoration:none;
 }
 .my-photo img {
   height: 200px;
